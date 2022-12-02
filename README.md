@@ -33,9 +33,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kisna2512&show_icons=true&locale=en&layout=compact" alt="kisna2512" /></p>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kisna2512&show_icons=true&locale=en" alt="kisna2512" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kisna2512&" alt="kisna2512" /></p>
-
+<br/>
 
 <a href="https://github.com/Shubham555/github-readme-activity-graph">
 <img alt="Krishna Kotgire's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kisna2512&theme=react-dark&hide_border=true" /></a>
