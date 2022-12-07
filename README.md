@@ -38,7 +38,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kisna2512&" alt="kisna2512" /></p>
 <br>  
 
-<a href="https://github.com/Shubham555/github-readme-activity-graph">
+<a href="https://github.com/kisna2512/github-readme-activity-graph">
 <img alt="Krishna Kotgire's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kisna2512&theme=react-dark&hide_border=true" /></a>
 
 
