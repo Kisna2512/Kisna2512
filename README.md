@@ -40,6 +40,6 @@
 
 
 <p align="center">
-   <img src="https://github.com/Kisna2512/Kisna2512/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/kisna2512/kisna2512/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
