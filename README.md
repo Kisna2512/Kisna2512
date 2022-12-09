@@ -38,9 +38,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kisna2512&" alt="kisna2512" /></p>
 <br>  
 
+<a href=#><img src="contributions.svg"></a>
+
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Kisna2512/count.svg" />
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
 
 
